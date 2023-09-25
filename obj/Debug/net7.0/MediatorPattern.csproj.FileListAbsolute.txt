@@ -1,0 +1,14 @@
+E:\Projects\Mediator\MediatorPattern\bin\Debug\net7.0\MediatorPattern.exe
+E:\Projects\Mediator\MediatorPattern\bin\Debug\net7.0\MediatorPattern.deps.json
+E:\Projects\Mediator\MediatorPattern\bin\Debug\net7.0\MediatorPattern.runtimeconfig.json
+E:\Projects\Mediator\MediatorPattern\bin\Debug\net7.0\MediatorPattern.dll
+E:\Projects\Mediator\MediatorPattern\bin\Debug\net7.0\MediatorPattern.pdb
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.AssemblyInfoInputs.cache
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.AssemblyInfo.cs
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.csproj.CoreCompileInputs.cache
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.dll
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\refint\MediatorPattern.dll
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.pdb
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\MediatorPattern.genruntimeconfig.cache
+E:\Projects\Mediator\MediatorPattern\obj\Debug\net7.0\ref\MediatorPattern.dll
